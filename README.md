@@ -1,0 +1,2 @@
+# test
+training VS GIT
